@@ -1,0 +1,10 @@
+*.log
+node_modules
+storybook-static
+dist
+dist-ssr
+*.local
+.cache
+.vscode/*
+.idea
+.DS_Store
